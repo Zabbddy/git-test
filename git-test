@@ -1,0 +1,23 @@
+PS C:\Users\zabbd> git --version
+git version 2.47.1.windows.2
+PS C:\Users\zabbd> mkdir git-test
+
+
+    Directorio: C:\Users\zabbd
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----         1/20/2025   9:16 PM                git-test
+
+
+PS C:\Users\zabbd> cd git-test
+PS C:\Users\zabbd\git-test> git init
+Initialized empty Git repository in C:/Users/zabbd/git-test/.git/
+PS C:\Users\zabbd\git-test> git status
+On branch main
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+PS C:\Users\zabbd\git-test>
